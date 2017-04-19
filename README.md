@@ -1,4 +1,7 @@
-# api documentation for  [npmi (v2.0.1)](https://github.com/maxleiko/npmi)  [![npm package](https://img.shields.io/npm/v/npmdoc-npmi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npmi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npmi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npmi)
+# npmdoc-npmi
+
+#### api documentation for  [npmi (v2.0.1)](https://github.com/maxleiko/npmi)  [![npm package](https://img.shields.io/npm/v/npmdoc-npmi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npmi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npmi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npmi)
+
 #### Gives a simplier API to npm install (programatically installs stuffs)
 
 [![NPM](https://nodei.co/npm/npmi.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npmi)
